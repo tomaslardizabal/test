@@ -1,0 +1,17 @@
+body
+{
+    color: red;
+    text-align: center;
+    font-family: "Arial";
+}
+p
+{
+    color: black;
+    text-align: justify;
+    scroll-margin-inline-end: 31;
+}
+h1
+{
+    color: lightcoral;
+    font-size: x-large;
+}

@@ -11,8 +11,9 @@
 }
 #container
 {
-    background-color: orange;
+    background-color: white;
     text-align: center;
+    color: red;
 }
 #seccion_arg
 {

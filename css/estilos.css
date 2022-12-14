@@ -1,22 +1,29 @@
+#tit_ppal
+{
+    color: white;
+     background-color: red;
+     text-align: right;
+}
+
+#cabecera{
+    color: black;
+    font-size: xx-large;
+}
+#container
+{
+    background-color: orange;
+    text-align: center;
+}
+#seccion_arg
+{
+    background-color: red;
+    color: white;
+}
+h1{
+    text-align: center;
+    color: white;
+}
 body
 {
-    color: red;
-    text-align: center;
-    font-family: "Arial";
-}
-p
-{
-    color: black;
-    text-align: justify;
-    scroll-margin-inline-end: 31;
-}
-h1
-{
-    color: lightcoral;
-    font-size: xx-small;
-}
-#cabecera{
-    color: blueviolet;
-    text-decoration: double;
-    font-size: 10;
+    background-color: red;
 }

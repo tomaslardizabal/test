@@ -13,5 +13,10 @@ p
 h1
 {
     color: lightcoral;
-    font-size: x-large;
+    font-size: xx-small;
+}
+#cabecera{
+    color: blueviolet;
+    text-decoration: double;
+    font-size: 10;
 }
